@@ -1,0 +1,37 @@
+Introduction - 00:01
+Git - 01:33
+Project Setup - 03:42
+Installing Sass - 04:50
+Global CSS Classes: 15:04
+HTML Template - 16:59
+Owl Carousel - 29:48
+Top Sale - 35:26
+Special Price - 48:11
+New Phones - 01:02:11:16
+Latest Blogs - 01:06:35:27
+Footer - 01:12:01:13
+Product Page - 01:21:38:10
+Product Qty - 01:46:45:59
+Shopping Cart - 01:53:27:30
+SubTotal - 02:06:02:18
+Input Quantity - 02:11:27:36
+Backend - 02:16:23:51
+Convert HTML to PHP - 02:20:23:39
+PHP Partial Template - 02:25:02:18
+Connecting to MySQLi - 02:38:20:30
+Closing Connection - 02:46:48:06
+Database Tables - 02:48:48:11
+Fetch Products - 02:52:43:50
+Fetch Data for Special Price - 03:04:54:26
+Fetch Data for New Phones - 03:14:08:31
+Product From Database - 03:16:32:03
+Add to Cart - 03:26:17:55
+Display Product Cart - 03:49:20:19
+Cart Item - 04:01:37:58
+Delete Cart Item - 04:09:28:04
+Duplicate Cart Item - 04:15:52:55
+Calculate SubTotal - 04:28:03:29
+Wishlist - 04:44:41:28
+Add to Wishlist - 04:47:57:07
+Empty Cart - 04:59:56:29
+Change Button - 05:70:12:21
